@@ -16,7 +16,7 @@ This deep learning project uses a Convolutional Neural Network (CNN) to classify
 
 ## Model Architecture
 
-- CNN with multiple Conv2D, MaxPooling, and Dropout layers
+- CNN with multiple Conv2D and MaxPooling layers
 - ReLU activation functions
 - Dense layers for final classification
 - Softmax for multi-class output

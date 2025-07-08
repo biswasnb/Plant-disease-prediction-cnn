@@ -20,4 +20,5 @@ This deep learning project uses a Convolutional Neural Network (CNN) to classify
 - ReLU activation functions
 - Dense layers for final classification
 - Softmax for multi-class output
+  
 
